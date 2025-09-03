@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Joseph Benson's First CS193 Homework
+Favorite things about CS193 
+- Chill instructors who are open to questions
+- Friends in the class 
+- No final exam
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
